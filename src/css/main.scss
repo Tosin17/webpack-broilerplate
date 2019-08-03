@@ -1,0 +1,19 @@
+h1 {
+    color: gray;
+    font-size: 5rem;
+    margin: auto;
+    text-align: center;
+}
+
+// Testing
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    img {
+        width: 20rem;
+        border-radius: 40%;
+    }
+}
